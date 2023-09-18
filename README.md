@@ -1,7 +1,7 @@
 👋 Hi there, **I'm Tomer Landesman**, and I'm part of the **[Env0](https://www.env0.com) Engineering team** 🔧
 <p align="left">
   <a href="[LINKEDIN_LINK]" target="blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=tomer-landesman&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
   </a>
 </p>
 
